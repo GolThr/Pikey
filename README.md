@@ -1,8 +1,6 @@
 # Pikey - Piano Keyboard
 
-使用连接到安卓设备的键盘演奏音乐
-
-可自定义SoundFonts音源
+将连接到Android设备的键盘映射为钢琴，提供音色切换（支持SoundFonts音源）和自定义按键等功能，使用到了开源项目FluidSynth。
 
 ![image](https://github.com/GolThr/Pikey/blob/main/assets/image.jpg)
 
