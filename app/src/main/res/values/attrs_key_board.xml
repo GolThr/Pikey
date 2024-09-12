@@ -1,0 +1,22 @@
+<resources>
+    <declare-styleable name="KeyBoard">
+        <!--设置按键被按下时的颜色-->
+        <attr name="keyPressedColor" format="color" />
+
+        <!--设置按键默认颜色-->
+        <attr name="keyColor" format="color" />
+
+        <!--设置按键上的字体大小-->
+        <attr name="keyTextSize" format="dimension" />
+
+        <!--设置按键字体颜色-->
+        <attr name="keyTextColor" format="color" />
+
+        <!--设置按键外边距-->
+        <attr name="keyMargin" format="float" />
+
+        <!--设置按键圆角-->
+        <attr name="keyRadius" format="integer" />
+
+    </declare-styleable>
+</resources>
