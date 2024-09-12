@@ -1,6 +1,5 @@
 # Pikey - Piano Keyboard
 ## 使用连接到安卓设备的键盘演奏音乐
--------------
 
 ![image](https://github.com/GolThr/Pikey/blob/main/assets/image.jpg)
 
