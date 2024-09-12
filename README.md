@@ -2,7 +2,7 @@
 ## 使用连接到设备的键盘演奏音乐
 -------------
 
-[!image](https://github.com/GolThr/Pikey/blob/main/assets/image.jpg)
+![image](https://github.com/GolThr/Pikey/blob/main/assets/image.jpg)
 
 已有功能：
 1. 键盘按键映射
